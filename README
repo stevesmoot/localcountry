@@ -1,4 +1,5 @@
 LocalCountry
 =================================
 
-TODO: tell people what your package does!
+Enhance country code fields with answers for unroutable addresses.
+Loads a a file mapping CIDR blocks (presumed to be RFC 1918 subnets) to country codes.
