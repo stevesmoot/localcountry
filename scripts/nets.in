@@ -1,6 +1,7 @@
 # Identify local address (RFC 1918) with country codes
 # If you have automated processing of _cc's then best to stick with country codes
 # but if you mostly read the fields in queries, you could use city names or office identifiers.
+# Note more specific nets take precedence.
 #fields	ips	name
 192.168.2.0/24	Washington, DC
 192.168.5.0/24	SF
